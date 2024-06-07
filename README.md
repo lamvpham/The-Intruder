@@ -4,8 +4,8 @@
 
 Using computer vision to process the participant’s body as the medium in a motion heatmap generative artwork. The head is the focal point, where the eyes are shown as red and are constantly being tracked. When too much motion occurs, the dark pixelation is removed and the pure video feed of the viewer is shown as a sign that they have been caught. 
 
-<img src="https://github.com/lamvpham/TheIntruder/blob/main/image1.png?raw=true" width="1000" title="Image" alt="Image">
-<img src="https://github.com/lamvpham/TheIntruder/blob/main/image2.png?raw=true" width="1000" title="Image" alt="Image">
+<img src="https://github.com/lamvpham/the-intruder/blob/main/image1.png?raw=true" width="1000" title="Image" alt="Image">
+<img src="https://github.com/lamvpham/the-intruder/blob/main/image2.png?raw=true" width="1000" title="Image" alt="Image">
 
 
 ## Formal Qualities
