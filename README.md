@@ -4,6 +4,9 @@
 
 Using computer vision to process the participant’s body as the medium in a motion heatmap generative artwork. The head is the focal point, where the eyes are shown as red and are constantly being tracked. When too much motion occurs, the dark pixelation is removed and the pure video feed of the viewer is shown as a sign that they have been caught. 
 
+<img src="https://github.com/lamvpham/The-Intruder/blob/main/image.png?raw=true" width="1000" title="Image" alt="Image">
+
+
 ## Formal Qualities
 The canvas is a centered, 640px by 480px, frame with the HTML document background being black, and changing to red when the pure video feed is active. When the pixelated heatmap is active, there is red text indicating the screen is ‘recording’ with a timestamp. As the viewer moves around, that is captured as red pixels on the canvas that get brighter red as more movement in that same area is detected - more movement also increases the static sound effect. Once enough movement has been detected, the screen flips to the pure video feed with the ml5.js facemesh bounding box to indicate that the viewer is an intruder with an alarm sound effect. Once the viewer stops moving, the video feed turns to the dark mode pixelated heat map view.
 
